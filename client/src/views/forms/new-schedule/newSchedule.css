@@ -1,0 +1,13 @@
+.date-tabs{
+    display: inline-flex;
+    margin-left: 40px;
+}
+.tabs{
+    margin: 10px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px strong black;
+}
+.schedule-btn{
+  align-content: center;
+}

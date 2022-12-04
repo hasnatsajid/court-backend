@@ -1,0 +1,16 @@
+.form-group {
+  margin-top: 13px;
+}
+.task-btn {
+  margin-left: 10px;
+}
+
+.form-check{
+  display: flex;
+ flex-wrap: wrap;
+ 
+}
+.box{
+  width: 30%;
+  
+}
